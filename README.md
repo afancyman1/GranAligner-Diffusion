@@ -35,5 +35,5 @@ All experiments can be run via the provided `demo.ipynb` notebook.
 
 ## Acknowledgements
 
-[fenneishi/Tag2Text](https://github.com/fenneishi/Tag2Text)
-[lm-sys](https://github.com/lm-sys)/**[FastChat](https://github.com/lm-sys/FastChat)
+- [fenneishi/Tag2Text](https://github.com/fenneishi/Tag2Text)
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
