@@ -1,4 +1,4 @@
-name: structure_diffusion
+name: gran_aligner_diffusion
 channels:
   - pytorch
   - defaults
